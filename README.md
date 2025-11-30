@@ -8,7 +8,7 @@ Small businesses use too many tools (Shopify, Google Reviews, Booking apps), and
 
 ## The Engineering Challenge
 
-Real-world APIs are messy. They timeout, crash, and send bad data. Most portfolio projects assume everything works perfectly. This project assumes everything will break.
+Real-world APIs are messy. They timeout, crash, and send bad data.
 I built a custom "Chaos Engine" to simulate network failures and bad data, proving that my system is resilient enough to handle real-world production environments.
 
 ## How It Works
